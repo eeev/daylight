@@ -1,0 +1,71 @@
+!! Colorscheme
+*.foreground: #ceeff2
+*.background: #02080d
+
+! black
+*.color0: #011526
+*.color8: #021c33
+
+! red
+*.color1: #f26363
+*.color9: #ff6969
+
+! yellow
+*.color3: #f2ea79
+*.color11: #fff780
+
+! green
+*.color2: #f2c36b
+*.color10: #ffcd70
+
+! blue
+*.color4: #184759
+*.color12: #1c5166
+
+! cyan
+*.color6: #5b9ea6
+*.color14: #62aab3
+
+! magenta
+*.color5: #2e7b8c
+*.color13: #328699
+
+! white
+*.color7: #ceeff2
+*.color15: #d9fcff
+
+!! URxvt Appearance
+URxvt.scrollBar: false
+URxvt.scrollBar_right: false
+
+URxvt.font: xft:Liberation Mono:autohint=true:size=10
+
+URxvt.internalBorder: 20
+URxvt.buffered: true
+URxvt*inheritPixmap: true
+URxvt.transparent: true
+URxvt.shading: 20
+
+!! URxvt Functionality
+
+URxvt.iso14755: false
+
+URxvt.urlLauncher: chromium
+URxvt.underlineURLs: true
+URxvt.urlButton: 1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,5 @@
+[General]
+theme=ChromeOS-dark
+
+[Applications]
+ChromeOS-dark=Dolphin, falkon
