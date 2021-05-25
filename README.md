@@ -3,7 +3,7 @@ daylight is a collection of dotfiles for an arch system configuration
 ## Preview
 ![Screenshot](preview_1.png)
 ![Screenshot](preview_2.png)
-## What is configured?
+## What is currently configured?
 Below you will find a list of each part of the system and where the config files are located:
 
 Part | Config location
@@ -20,3 +20,9 @@ feh | `~/.fehbg`
 kvantum, qt5ct | `~/.config/Kvantum/[...]`
 dolphin, falkon | (via `kvantummanager`)
 dmenu | (flags only, see `bspwm` config)
+
+## Quickstart / Set-up
+Clone this repository and copy the local files to their respective directory and replace existing configuration.
+
+## To-do / Future plans
+- [ ] Add install/uninstall script w/backup of existing files
