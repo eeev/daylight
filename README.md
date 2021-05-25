@@ -26,3 +26,7 @@ Clone this repository and copy the local files to their respective directory and
 
 ## To-do / Future plans
 - [ ] Add install/uninstall script w/backup of existing files
+
+## Credits
+- vinceliuice (for the ChromeOS theme: https://github.com/vinceliuice/ChromeOS-kde and vimix icons: https://github.com/vinceliuice/vimix-icon-theme)
+- PrayagS (for his Spotify polybar module: https://github.com/PrayagS/polybar-spotify)
